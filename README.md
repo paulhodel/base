@@ -2,11 +2,11 @@
 ## Rock Nacional
 
 Letras
-1. [A vida é um jogo](https://github.com/paulhodel/base/blob/master/a-vida-e-um-jogo)
-2. [Herói](https://github.com/paulhodel/base/blob/master/heroi)
-3. [Enquanto](https://github.com/paulhodel/base/blob/master/enquanto)
-4. [A troco de nada](https://github.com/paulhodel/base/blob/master/a-troco-de-nada)
-5. [Perfeição](https://github.com/paulhodel/base/blob/master/perfeicao)
+1. [A vida é um jogo](https://github.com/paulhodel/base/blob/master/a-vida-e-um-jogo.md)
+2. [Herói](https://github.com/paulhodel/base/blob/master/heroi.md)
+3. [Enquanto](https://github.com/paulhodel/base/blob/master/enquanto.md)
+4. [A troco de nada](https://github.com/paulhodel/base/blob/master/a-troco-de-nada.md)
+5. [Perfeição](https://github.com/paulhodel/base/blob/master/perfeicao.md)
 
 Baixe o disco na integra em:<br>
 [Disco completo da banda de rock BASE](https://base.mus.br)<br><br>
