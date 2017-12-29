@@ -2,6 +2,7 @@
 
 [![Alt text](https://img.youtube.com/vi/GFQ0cfTDwqc/0.jpg)](https://www.youtube.com/watch?v=GFQ0cfTDwqc)
 
+<pre>
 A vida é um jogo
 (Paul Hodel)
 
@@ -26,7 +27,9 @@ Só uma chance e já criamos outro mundo para quem quer ver
 Pois o sangue em seus olhos é tudo o que precisamos ter
 A vida é um jogo com a impressão de uma virada que nunca vem
 
-Baixe o disco na integra em:
-[Base | Rock nacional](https://base.mus.br)
+</pre>
+
+Baixe o disco na integra em:<br>
+[Disco completo da banda de rock BASE](https://base.mus.br)<br><br>
 
 Rock nacional, Rock, Bandas novas, Novas bandas
