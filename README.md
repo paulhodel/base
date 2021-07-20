@@ -31,7 +31,7 @@ Principais influências<br>
 [Algumas das melhores bandas de rock que nos influênciam até hoje](https://www.youtube.com/playlist?list=PLEjt7FeuBTqN97sp91sYdWRUxzQiqaNgI)<br><br>
 
 Facebook<br>
-[https://www.facebook.com/bandabase1](https://www.facebook.com/bandabase1)<br><br>
+[https://www.facebook.com/bandabase1](https://www.facebook.com/bandabase1)<br><br> 
 
 Twitter<br>
 [https://twitter.com/paul_hodel](https://twitter.com/paul_hodel)<br><br>
